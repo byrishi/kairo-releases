@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0-preview.2",
+  "versionCode": 102,
+  "mandatory": false,
+  "title": "A new Kairo is here",
+  "notes": ["First test build"],
+  "urls": {
+    "github": "https://github.com/byrishi/kairo-releases/releases/latest/download/kairo.apk"
+  }
+}

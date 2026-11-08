@@ -6,7 +6,7 @@ Official Android downloads for **[Kairo](https://kairo.rishishah.in)**, the loca
 
 **[⬇ Download the latest APK](https://github.com/byrishi/kairo-releases/releases/latest/download/kairo.apk)**
 
-Android 7.0 and newer · free · no account · no internet permission.
+Android 7.0 and newer · free · your data stays on your phone.
 
 1. Download `kairo.apk` on your phone.
 2. Open it. If asked, allow your browser to install unknown apps.
