@@ -1,9 +1,14 @@
 {
-  "version": "1.0.0-preview.2",
-  "versionCode": 102,
+  "version": "1.0.0-preview.7",
+  "versionCode": 107,
   "mandatory": false,
-  "title": "A new Kairo is here",
-  "notes": ["First test build"],
+  "title": "Kairo 1.1 is here",
+  "notes": [
+    "Lists, My Day, subtasks, reminders and repeat",
+    "Notion-style notes with / blocks and pages",
+    "Home-screen widgets",
+    "Profile photo, smarter notifications, new design"
+  ],
   "urls": {
     "github": "https://github.com/byrishi/kairo-releases/releases/latest/download/kairo.apk"
   }
